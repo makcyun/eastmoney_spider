@@ -16,14 +16,14 @@
 
 #### 效果图：
 
-![](http://pc1lljdwb.bkt.clouddn.com/js%E7%88%AC%E4%B8%9C%E6%96%B9%E8%B4%A2%E5%AF%8C.gif)
+![](http://media.makcyun.top/selenium%E7%88%AC%E5%8F%96%E6%95%88%E6%9E%9C.gif)
 
 
 
 #### 关于我
 
-- [高级农民工的个人博客](https://www.makcyun.top/)
-- 个人公众号：「**第2大脑**」（Mocun6）
+- 博客：[高级农民工的](https://www.makcyun.top/)
+- 公众号：**高级农民工**
 
 
 
